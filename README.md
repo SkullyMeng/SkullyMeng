@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SkullyMeng
+- 👀 I’m interested in Python and FireDynamicSimulator (FDS)
+- 🌱 I’m currently learning Python
